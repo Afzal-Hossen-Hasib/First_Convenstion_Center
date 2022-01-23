@@ -10,10 +10,76 @@ body{
 
 /* Button Style  */
 .convention-button{
-    background: #FFFFFF;
-    color: #3F87F5;
+    background: rgb(32, 32, 32);
 }
 
 .convention-button a{
     text-decoration: none;
+    color: #fdfdfd;
 }
+
+/* Happy Moment Style  */
+
+.happy-background {
+        background-color: #FEEAE9;
+}
+
+.happy-button a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/* Package Css Style  */
+.package-color{
+    color: #231D4F;
+}
+
+.mark-color{
+    color: #5243C2;
+}
+
+.package-button{
+    color: #3F87F5;
+}
+
+.card-background{
+    background-color: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+}
+
+.mark-color-three{
+    color: white;
+}
+
+.package-third-button {
+    background: #FFFFFF;
+    border-radius: 24px;
+    color: #3F87F5;
+}
+
+.package-icon{
+    background: #FF4E4E;
+    border-radius: 14px;
+}
+
+
+
+/* Client Css Style  */
+.client {
+    overflow: hidden;
+}
+
+.client img{
+    transition: all 1.5s ease;
+}
+
+.client:hover img{
+    transform: scale(1.5);
+}
+
+/* .app-store img {
+        width: 17px;
+        height: 20px;
+} */
