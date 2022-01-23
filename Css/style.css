@@ -6,3 +6,14 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+
+/* Button Style  */
+.convention-button{
+    background: #FFFFFF;
+    color: #3F87F5;
+}
+
+.convention-button a{
+    text-decoration: none;
+}
