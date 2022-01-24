@@ -78,3 +78,7 @@ body{
 .client:hover img{
     transform: scale(1.5);
 }
+
+.client-button {
+    background: linear-gradient(170.41deg, #4289FF -11%, #3F07F8 93%);
+}
