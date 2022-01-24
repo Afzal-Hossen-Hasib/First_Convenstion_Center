@@ -41,6 +41,12 @@ body{
 
 .package-button{
     color: #3F87F5;
+    background-color: rgba(245, 233, 245, 0.990);
+    border-radius: 10px;
+}
+
+.package-button a{
+    text-decoration: none;
 }
 
 .card-background{
@@ -59,6 +65,10 @@ body{
     color: #3F87F5;
 }
 
+.package-third-button a {
+    text-decoration: none;
+}
+
 .package-icon{
     background: #FF4E4E;
     border-radius: 14px;
@@ -71,6 +81,15 @@ body{
     overflow: hidden;
 }
 
+.client-button {
+    background: linear-gradient(170.41deg, #4289FF -11%, #3F07F8 93%);
+}
+
+.client-button a{
+    text-decoration: none;
+    color: white;
+}
+
 .client img{
     transition: all 1.5s ease;
 }
@@ -79,6 +98,3 @@ body{
     transform: scale(1.5);
 }
 
-.client-button {
-    background: linear-gradient(170.41deg, #4289FF -11%, #3F07F8 93%);
-}
